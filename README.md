@@ -1,2 +1,2 @@
 # testerszymoon.github.io
-my site
+Testing ability of Github Pages.
