@@ -1,2 +1,3 @@
 # testerszymoon.github.io
-Testing ability of Github Pages.
+Hi! I am TesterSzymmon.
+And that's all.
